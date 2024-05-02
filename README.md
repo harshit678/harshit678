@@ -1,5 +1,5 @@
 # 💫 About Me:
-University Graduate With a Degree in Data Science 🎓<br>Machine Learning and Deep Learning Enthusiast 🤖 <br>Currently Working on a Project to Detect Emotion in Speech Recordings 👨‍💻<br>Want to Work for a Company Where I can Learn and Grow 📖<br>Hobbies include Video Games ( Elden Ring), Reading, Table Tennis, and Soccer 🎮 <br>
+**University Graduate With a Degree in Data Science 🎓<br>Machine Learning and Deep Learning Enthusiast 🤖 <br>Currently Working on a Project to Detect Emotion in Speech Recordings 👨‍💻<br>Want to Work for a Company Where I can Learn and Grow 📖<br>Hobbies include Video Games ( Elden Ring), Reading, Table Tennis, and Soccer 🎮 <br>**
 
 
 ## 🌐 Socials:
